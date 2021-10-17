@@ -1,0 +1,4 @@
+pandas
+pdfminer
+xlrd
+openpyxl
